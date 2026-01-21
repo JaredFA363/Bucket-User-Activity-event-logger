@@ -1,6 +1,11 @@
 # Bucket-User-Activity-event-logger
 
 # Architecture Diagram
+<img width="771" height="471" alt="S3eventTracker" src="https://github.com/user-attachments/assets/c339f184-a8fd-4edc-91f4-e42f7b768a88" />
+
+
+
+
 [S3eventTracker.drawio](https://github.com/user-attachments/files/24766080/S3eventTracker.drawio)
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.4">
   <diagram name="Page-1" id="lzUv2qR2vPcSS4NG_Sex">
